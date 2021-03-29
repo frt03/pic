@@ -1,0 +1,5 @@
+pillow
+gym==0.17.2
+mujoco-py==2.0.2.11
+dm2gym
+optuna
