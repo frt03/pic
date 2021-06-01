@@ -3,10 +3,10 @@
 
 If you use this codebase for your research, please cite the paper:
 ```
-@article{furuta2021pic,
+@inproceedings{furuta2021pic,
   title={Policy Information Capacity: Information-Theoretic Measure for Task Complexity in Deep Reinforcement Learning},
   author={Hiroki Furuta and Tatsuya Matsushima and Tadashi Kozuno and Yutaka Matsuo and Sergey Levine and Ofir Nachum and Shixiang Shane Gu},
-  journal={arXiv preprint arXiv:2103.12726},
+  booktitle={International Conference on Machine Learning},
   year={2021}
 }
 ```
